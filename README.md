@@ -36,7 +36,7 @@
 
 ### 3.2 단계별 구현 계획
 
-#### Phase 1: DWG 파일 파싱 기반 구축 ← **현재 단계**
+#### Phase 1: DWG 파일 파싱 기반 구축 
 - DWG/DXF 파일 읽기 환경 구축 (Python + ezdxf)
 - ODA File Converter를 통한 DWG → DXF 변환 파이프라인
 - Layer 구조 파악 및 매핑
